@@ -73,4 +73,8 @@ Current highlighted projects include:
 
 ## License
 
-No open-source license has been selected yet. Treat this repository as public WIP portfolio material unless and until a license is added.
+No open-source license has been selected for now.
+
+Copyright © 2026 fumbl8. All rights reserved.
+
+This public repository is shared as WIP portfolio material. Unless a license is added later, no permission is granted to copy, modify, redistribute, or reuse the contents beyond what is allowed by applicable law.
