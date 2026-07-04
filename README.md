@@ -1,10 +1,10 @@
 # Atlas Labs
 
-**Independent AI/systems portfolio for biology, ecology, infrastructure, research workflows, knowledge maps, and local-first agent systems.**
+**Independent WIP portfolio for biology, AI systems, research workflows, knowledge maps, and complex-systems translation.**
 
-> **Status:** Early public WIP portfolio. Atlas Labs is a working portfolio identity, not a formal company, funded lab, validated product suite, or finished research program.
+> **Status:** Early public WIP portfolio. Atlas Labs is a working direction and portfolio identity, not a formal company, funded lab, validated product suite, or finished research program.
 
-Atlas Labs is a public-facing workbench for exploring how AI-assisted systems can help make complex living systems easier to observe, organize, explain, and act on responsibly. The current portfolio connects biology, ecology, biomimicry, computational notebooks, knowledge maps, infrastructure thinking, and local-first agent workflows into small proof artifacts with explicit limitations.
+Atlas Labs is my public-facing workbench for exploring how AI-assisted systems can help make complex living systems easier to observe, organize, explain, and act on responsibly. The current portfolio reflects an early builder path from biology education into life-sciences AI workflows, mechanism mapping, scientific translation, ecological systems, and local-first agent infrastructure.
 
 ## Why this exists
 
@@ -65,10 +65,10 @@ Current highlighted projects include:
 
 ## Near-term WIP direction
 
+- Keep BioSignals as the most directly relevant active life-sciences / Claude hackathon concept.
 - Improve the public project index.
 - Add selected case-study pages for the strongest prototypes.
 - Add citations/source notes where projects touch real science or public data.
-- Keep BioSignals as the most immediately relevant life-sciences hackathon concept.
 - Preserve the broader Atlas Labs portfolio as context: biology, ecology, infrastructure, and local-first AI systems share the same underlying need for clean maps of complexity.
 
 ## License
